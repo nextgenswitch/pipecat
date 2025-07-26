@@ -1,0 +1,6 @@
+asyncio
+python-dotenv
+pipecat-ai[cartesia,openai,silero,websocket,deepgram]
+sounddevice
+websockets
+numpy
