@@ -29,8 +29,7 @@ A Pipecat AI Assistant integration example with Nextgenswitch
  <?xml version="1.0"?>
 <response>
    <connect><stream name="stream" url="ws://pipecat_server_ip:8765/ws"/></connect> 
-<say>Please enter the extension number  followed by the hash key</say>
-  <pause length="120"/> 
+<say>Something problem in the stream. It could not connect</say> 
 </response> 
     
 ```
